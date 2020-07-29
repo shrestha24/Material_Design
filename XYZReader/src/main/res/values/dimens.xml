@@ -1,0 +1,18 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="article_body_linearlayout_elevation">2dp</dimen>
+    <dimen name="activity_article_list_appbarlayout_elevation">4dp</dimen>
+    <dimen name="activity_article_list_toolbar_layout_height">58dp</dimen>
+    <dimen name="activity_article_list_swiperefresh_default_margin">8dp</dimen>
+    <dimen name="activity_article_detail_appbarpadding">24dp</dimen>
+    <dimen name="activity_article_list_recyclerview_paddingBottom">28dp</dimen>
+    <dimen name="fragment_article_detail_appbar_elevation">4dp</dimen>
+
+</resources>
